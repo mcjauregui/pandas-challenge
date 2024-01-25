@@ -89,3 +89,5 @@ Create a DataFrame called size_summary that breaks down school performance based
 Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 This new DataFrame should show school performance based on the "School Type".
+
+I used the Xpert Learning Assistant (https://bootcampspot.instructure.com/courses/4981/external_tools/313) as a reference throughout this challenge, asking the AI for the correct syntax for many of the more challenging and newer operations. I noted within the code itself where I relied on Xpert Learning Assistant to remind me how to write an operation error-free. 
